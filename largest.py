@@ -1,6 +1,6 @@
-x = float(input("first number:"))
-y = float(input("second number:"))
-z = float(input("third number:"))
+x = float(input())
+y = float(input())
+z = float(input())
 if (x > y) and (x > z):
    largest = x
 elif (y > x) and (y > z):
