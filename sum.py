@@ -1,4 +1,4 @@
-num = 3
+num = 2
 if num < 0:
    print("enter the positive number")
 else:
